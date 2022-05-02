@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on game projects and related open source software
 
-- 📫 You can reach me by email at bsunsten@gmail.com
+- 📫 I am currently looking for a full time Software Engineering position. You can reach me by email at bsunsten@gmail.com
 
 <!---
 bsunsten/bsunsten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
